@@ -17,7 +17,7 @@ A cutting-edge **computer vision** pipeline for analyzing soccer footage via a *
    - [Analytics](#analytics)  
    - [Homography](#homography)  
    - [Heatmap](#heatmap)  
-8. [Future Improvements (Optional)](#future-improvements-optional)  
+8. [Future Improvements](#future-improvements-optional)  
 9. [License](#license)
 
 ---
@@ -181,7 +181,7 @@ After processing, you will see these key outputs:
 
 ---
 
-## Future Improvements (Optional)
+## Future Improvements
 
 - **Automated Goal Detection**: Let the system detect the goal polygon automatically.  
 - **Multi-Camera Merging**: Combine data from multiple angles into one overhead perspective.  
