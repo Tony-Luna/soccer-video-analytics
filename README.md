@@ -3,8 +3,6 @@
 A cutting-edge **computer vision** pipeline for analyzing soccer footage via a **custom YOLOv8 model**. The system detects, tracks, and projects key soccer entities (ball, players, audience) onto a top-down layout, while providing advanced analytics such as **scores, ball possession time, CSV logs,** and **heatmaps** for in-depth tactical insights.
 
 ![Demo](assets/demo.gif)
-<sup>*(Sample demonstration of real-time soccer detection and analysis. Ensure `assets/demo.gif` exists in your repo.)*</sup>
-
 ---
 
 ## Table of Contents
