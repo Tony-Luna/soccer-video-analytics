@@ -162,9 +162,6 @@ After processing, you will see these key outputs:
 
 - **Scores**: Incremented automatically when the ball enters the goal polygon.  
 - **Ball Possession**: Tracked in real time, displayed in `scores_video.mp4` (top-left corner) for scoring, top-right for possession.
-
-![Analytics Screenshot](assets/analytics_screenshot.png)
-
 - **CSV Logs**: Per-frame data in `soccer_analytics.csv` (e.g., positions, last ball possession).  
 - **JSON Report**: `soccer_analytics_report.json` consolidating final scores and total possession time.
 
@@ -173,14 +170,14 @@ After processing, you will see these key outputs:
 - **layout_video.mp4**: Overhead perspective. Each frame shows player icons and ball location mapped to the field layout.  
 - Ideal for strategic analysis (tactics, spacing, coverage).
 
-![Homography Screenshot](assets/homography_screenshot.png)
+![Homography Screenshot](assets/homography.gif)
 
 ### Heatmap
 
 - **heatmap_video_<team_letter>.mp4** for each team’s on-field distribution over time.  
 - **heatmap_image_<team_letter>.png** for a final snapshot of the highest-density zones.
 
-![Heatmap Screenshot](assets/heatmap_screenshot.png)
+![Heatmap Screenshot](assets/heatmap.gif)
 
 ---
 
