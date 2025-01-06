@@ -118,7 +118,8 @@ This repository implements a highly modular system capable of:
 3. **On-Screen Prompts**:
 
    - **HSV Setup Window**  
-     ![HSV Setup](assets/hsv_setup.png)  
+     ![HSV Setup 1](assets/hsv_setup_1.png) 
+     ![HSV Setup 2](assets/hsv_setup_2.png) 
      Use trackbars to isolate each team’s uniform color. Press **`y`** once satisfied.
 
    - **Homography Selection**  
