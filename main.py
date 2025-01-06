@@ -6,7 +6,7 @@ Main script for Soccer Video Analysis.
 Implements the pipeline: config loading, logging, homography, HSV setup,
 entity instantiation, and final video processing.
 
-@author: anlun
+@author: Tony-Luna
 """
 
 import sys

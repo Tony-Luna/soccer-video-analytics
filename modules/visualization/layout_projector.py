@@ -5,6 +5,8 @@ Layout Projector.
 
 Projects player/ball points onto the layout image with heatmaps,
 and keeps track of ball possession time.
+
+@author: Tony-Luna
 """
 
 import cv2

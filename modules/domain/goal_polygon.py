@@ -5,6 +5,8 @@ Goal Polygon.
 
 Allows user to draw a polygon representing the goal area in the first frame.
 Tracks ball entering to increment scores.
+
+@author: Tony-Luna
 """
 
 import os

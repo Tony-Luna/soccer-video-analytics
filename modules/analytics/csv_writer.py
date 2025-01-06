@@ -4,6 +4,8 @@
 CSV Writer.
 
 Writes per-frame analytics to a CSV file.
+
+@author: Tony-Luna
 """
 
 import os

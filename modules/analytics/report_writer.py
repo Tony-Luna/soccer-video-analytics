@@ -4,6 +4,8 @@
 Report Writer.
 
 Writes a final JSON report with scoring and ball possession data.
+
+@author: Tony-Luna
 """
 
 import os

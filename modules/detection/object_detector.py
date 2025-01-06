@@ -4,6 +4,8 @@
 Object Detector.
 
 Implements YOLO-based object detection.
+
+@author: Tony-Luna
 """
 
 import numpy as np

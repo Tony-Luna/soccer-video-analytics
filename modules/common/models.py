@@ -4,6 +4,8 @@
 Common Data Models.
 
 Holds shared data structures used by multiple modules.
+
+@author: Tony-Luna
 """
 
 from dataclasses import dataclass

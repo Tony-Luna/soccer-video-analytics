@@ -5,6 +5,8 @@ Video Processor.
 
 Coordinates the per-frame analysis: detection, scoring, layout projection,
 and writes CSV/JSON analytics.
+
+@author: Tony-Luna
 """
 
 import os

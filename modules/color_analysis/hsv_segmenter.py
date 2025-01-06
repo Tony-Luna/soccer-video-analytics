@@ -4,6 +4,8 @@
 HSV Segmenter.
 
 Provides a class for interactive HSV segmentation using OpenCV trackbars.
+
+@author: Tony-Luna
 """
 
 import cv2

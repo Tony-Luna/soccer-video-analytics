@@ -4,6 +4,8 @@
 Domain Entities.
 
 Defines classes for representing players (TeamPlayer) and the ball (Ball).
+
+@author: Tony-Luna
 """
 
 import cv2

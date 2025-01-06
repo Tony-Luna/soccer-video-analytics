@@ -4,6 +4,8 @@
 Configuration Loader.
 
 Loads config parameters from a YAML file.
+
+@author: Tony-Luna
 """
 
 import os

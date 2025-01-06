@@ -4,6 +4,8 @@
 Logger Manager.
 
 Sets up a logger based on a specified verbosity level.
+
+@author: Tony-Luna
 """
 
 import sys

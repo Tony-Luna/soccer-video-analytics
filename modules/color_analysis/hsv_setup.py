@@ -4,6 +4,8 @@
 HSV Setup.
 
 High-level class to manage HSV color setup for multiple classes (teams).
+
+@author: Tony-Luna
 """
 
 import os

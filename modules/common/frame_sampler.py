@@ -4,6 +4,8 @@
 Frame Sampler.
 
 Provides functionality to sample random frames from a video.
+
+@author: Tony-Luna
 """
 
 import cv2

@@ -5,6 +5,8 @@ Homography Setup.
 
 Allows users to define corresponding points on a layout image and 
 the first frame of the video to compute a homography matrix.
+
+@author: Tony-Luna
 """
 
 import os
