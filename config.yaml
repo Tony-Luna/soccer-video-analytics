@@ -1,0 +1,15 @@
+# config.yaml
+
+usage_parameters:
+  input_video_path: "C:/Users/anlun/OneDrive/Documents/UpWork/Completed/soccer-players-analysis/Demo/Inputs/demo_1.mp4"
+  output_base_dir: "C:/Users/anlun/OneDrive/Documents/UpWork/Completed/soccer-players-analysis/Demo/Outputs"
+  n_classes: 2
+  player_labels: [2, 3]
+  ball_labels: [1]
+  verbosity: 2  # 0=WARNING, 1=INFO, 2=DEBUG
+
+detection_parameters:
+  yolo_model_path: "./models/yolov8-soccer-demo.pt"
+
+homography_parameters:
+  input_layout_image: "C:/Users/anlun/OneDrive/Documents/UpWork/Completed/soccer-players-analysis/Demo/Inputs/soccer_field_layout.png"
